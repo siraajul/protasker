@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Employee-Management-System
+  cd protasker
 ```
 
 Install dependencies
